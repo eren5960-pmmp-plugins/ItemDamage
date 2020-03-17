@@ -2,8 +2,8 @@
 See the damage of items as live.
 
 ## Images
-<img src="meta/image1.PNG" height="220" width="500"></img>
-<img src="meta/image2.PNG" height="220" width="500"></img>
+<img src="meta/image1.PNG" height="300" width="700"></img>
+<img src="meta/image2.PNG" height="300" width="700"></img>
 
 ## Features :rocket
 - Notifies you of remaining the item damage.
@@ -16,10 +16,10 @@ See the damage of items as live.
 # Türkçe
 Aletlerinizin hasarını canlı olarak görün.
 
-### Features :rocket:
+### Özellikler :rocket:
 - Aleti kullanırken kalan can için sizi bilgilendirir.
 - Aletin canı azaldığında sizi mesajla uyarır.
 
-#### TODO
+#### Yapılacaklar
 - :heavy_check_mark: Yeni sürüm kontrolü
 - :x: Çoklu dil desteği
