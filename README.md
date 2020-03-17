@@ -2,9 +2,8 @@
 See the damage of items as live.
 
 ## Images
-<img src="meta/image1.PNG" height="160" width="380"></img>
-
-<img src="meta/image2.PNG" height="160" width="380"></img>
+<img src="meta/image1.PNG" height="220" width="500"></img>
+<img src="meta/image2.PNG" height="220" width="500"></img>
 
 ## Features :rocket
 - Notifies you of remaining the item damage.
