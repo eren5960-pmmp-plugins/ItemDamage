@@ -18,7 +18,6 @@ namespace Eren5960\ItemDamage\update;
 use pocketmine\plugin\PluginDescription;
 use pocketmine\Server;
 use pocketmine\utils\Internet;
-use pocketmine\utils\TextFormat;
 
 class Update{
 	/** @var PluginDescription */

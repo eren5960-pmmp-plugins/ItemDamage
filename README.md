@@ -5,7 +5,7 @@ See the damage of items as live.
 <img src="meta/image1.PNG" height="300" width="700"></img>
 <img src="meta/image2.PNG" height="300" width="700"></img>
 
-## Features :rocket
+## Features :rocket:
 - Notifies you of remaining the item damage.
 - Tool message you when it is about to break.
 
